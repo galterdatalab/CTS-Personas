@@ -6,4 +6,4 @@ Use Case 2: Clinical Research Center Trainings
 
 Use Case 3: Building the Software Development Team
 
-#### Back to [home](https://data2health.github.io/CTS-Personas/)
+#### Back to [home](https://galterdatalab.github.io/CTS-Personas/)
