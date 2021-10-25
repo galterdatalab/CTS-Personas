@@ -18,6 +18,4 @@ Click on each role to view and download their profile, and to see a chart outlin
  * [Patient: Emily Trinidad](patient_emily_trinidad.md)
  * [Patient: Tom Movell](patient_tom_movell.md)
 
-#### Back to [home](https://data2health.github.io/CTS-Personas/)
-
-##### A project of the National Center for Data to Health (Grant U24TR002306)
+#### Back to [home](https://galterdatalab.github.io/CTS-Personas/)
