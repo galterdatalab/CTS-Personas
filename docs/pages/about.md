@@ -12,17 +12,15 @@ The concept of the translational workforce is an important one and plays a promi
 
 The CTS personas reflect the spectrum of translation and the diversity of roles required for successful translation at the local hub level and span across the translational signposts as defined by NCATS of Basic Research →  Pre-Clinical Research → Clinical Research → Clinical Implementation → Public Health. By compiling lists of CTS position descriptions and roles, completing research elucidating the needs, motivations, goals, technological proficiency and pain points of those occupying these roles, and condensing the research into easy to understand, one-page Personas profiles, we hope to assist and inform CTSA program sites, partner sites, and beyond in developing software solutions, training and engagement materials, and more.
 
+Throughout 2020-2021, a new project team has been working to add 6 additional CTS roles to the Personas portfolio.
+
 ### Meet the Team
 
-| Northwestern University | Children's Hospital of Philadelphia | Oregon Health & Science University | Washington University |
+| Northwestern University | NYU Langone Health | Oregon Health & Science University | University of Virginia |
 | --- | --- | --- | --- |
-| Sara Gonzales | Bailey Farrow | Robin Champieux | Po-Yin Yen |
-| Karen Gutzman | Allison Heath |      |        |
-| Lisa O'Keefe | Meen Chul Kim |      |        |
-| Guillaume Viger | Deanne Taylor |     |       |
-| Annie Wescott |        |    |     |    
+| Sara Gonzales | Alisa Surkis | Robin Champieux | Andrea Denton |
+| Annie Wescott | Nicole Contaxis |    |     |    
+| Mohammad Hosseini |        |    |     |  
 | Kristi Holmes |        |    |     |  
 
 #### Back to [home](https://data2health.github.io/CTS-Personas/)
-
-##### A project of the National Center for Data to Health (Grant U24TR002306)
