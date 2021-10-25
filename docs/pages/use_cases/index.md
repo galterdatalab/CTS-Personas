@@ -6,4 +6,4 @@
 
 [Use Case 3: Building the Software Development Team](use_case_three.md)
 
-##### Back to [home](https://data2health.github.io/CTS-Personas/)
+##### Back to [home](https://galterdatalab.github.io/CTS-Personas/)
