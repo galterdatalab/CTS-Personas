@@ -2,7 +2,7 @@
 ## Frequently Asked Questions
 
 ### Where can I find the project's documentation?
-All project documentation is on the [CTS_Personas GitHub site](https://github.com/data2health/CTS-Personas)
+All project documentation is on the [CTS_Personas GitHub site](https://galterdatalab.github.io/CTS-Personas/)
 
 ### How can I participate in evaluation of Personas?
 Fill out the Personas Evaluation [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc0PiMqi12YVz9SvdHNqUocwgz8KKHOKdj3NQ80xJmMNyR_oA/viewform?usp=sf_link)
@@ -18,4 +18,4 @@ The CTS-Personas project was scoped to one dozen profiles of roles in clinical a
 
 Keen to round out the collection of personas with a key role at your hub? Looking for a straightforward project for a student or collaborative workgroup? Consider developing a Persona and contribute it to the CTS-Personas library! Share your idea or find others for collaboration through our [GitHub site](https://github.com/data2health/CTS-Personas/issues). 
 
-#### Back to [home](https://data2health.github.io/CTS-Personas/)
+#### Back to [home](https://galterdatalab.github.io/CTS-Personas/)
