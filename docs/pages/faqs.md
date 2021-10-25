@@ -19,5 +19,3 @@ The CTS-Personas project was scoped to one dozen profiles of roles in clinical a
 Keen to round out the collection of personas with a key role at your hub? Looking for a straightforward project for a student or collaborative workgroup? Consider developing a Persona and contribute it to the CTS-Personas library! Share your idea or find others for collaboration through our [GitHub site](https://github.com/data2health/CTS-Personas/issues). 
 
 #### Back to [home](https://data2health.github.io/CTS-Personas/)
-
-##### A project of the National Center for Data to Health (Grant U24TR002306)
